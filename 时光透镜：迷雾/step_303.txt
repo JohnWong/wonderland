@@ -1,0 +1,13 @@
+{"index":303,"type":3,"chap":23,"title":"保俶塔","english_title":"Pagoda","time":0,"content":"东乔受到了我的攻击，向后踉跄了几步。","options":[{"index":307,"option":1},{"index":309,"option":1}],"even":1,"pic":"jpg_26.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+

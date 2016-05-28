@@ -1,0 +1,1 @@
+{"index":48,"type":0,"chap":1,"title":"没有选择","english_title":"No choice","time":600,"content":"“首先……到<b>银泰商城</b>……”声音突然变得不稳定。\n\n“<b>二楼平台……兹……兹……机器人……动手吧</b>？”\n\n信号中断，一股不祥的预感涌上心头。","audio":"mp3_4.mp3"}

@@ -1,0 +1,5 @@
+{"index":71,"type":1,"chap":15,"title":"寂照亭","english_title":"寂照亭","time":0,"content":"小boss暗示我去小瀛洲\n\n小boss：你为什么要帮他。\n\n我：我弟弟不见了，他能帮我找回来。\n\n小boss：你确定他说的都是真的么？说一些大宝的不是，他有自己的目的。\n\n指引去小瀛洲，那里有大宝最不愿意看到的东西。\n\n","options":[{"index":73,"option":"相信她，去小瀛洲"},{"index":75,"option":"不信她，去岳飞像"}]}
+
+
+
+

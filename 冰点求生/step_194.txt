@@ -1,0 +1,6 @@
+{"index":194,"type":1,"chap":29,"title":"庇护/刀枪","english_title":"Shelter or Weapon","time":0,"content":"眼前这块巨大的钱币，就是隔离区的大门。过马路后的东面部分，就是军方的驻地。\n\nCoach已经在门口等待。\n\n“你们总算是到达了。”他上前握手，我下意识地退后了一步。\n\n“先进来吧，外面风雪太大了。”Coach说。\n\n我斟酌了一下回答。","options":[{"index":204,"option":"我突然想起要回安全屋一趟。"},{"index":206,"option":"就在这里说清楚吧。"}],"pic":"jpg_43.jpg"}
+
+
+
+
+

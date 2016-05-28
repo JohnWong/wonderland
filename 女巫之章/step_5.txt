@@ -1,0 +1,10 @@
+{"index":5,"type":9,"chap":1,"title":"付账","english_title":"The Bill","time":0,"content":"我觉得很荒唐并离开了咖啡厅。","end_content":"此后我的猫咪Ruby就像消失了一般，再也没有出现过。\n","back_pic":"jpg_5.jpg","end_main_pic":"jpg_5.jpg","pic":"jpg_8.jpg"}
+
+
+
+
+
+
+
+
+

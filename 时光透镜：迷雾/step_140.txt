@@ -1,0 +1,1 @@
+{"index":140,"type":2,"chap":19,"title":"博物馆","english_title":"Museum","time":0,"content":"这段经文果然被附加了密钥，错乱的经文浮现在面前，这其中，应该有解谜的关键。","password":"YOUGUI","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_28.jpg","tail_pic":"png_41.png"}

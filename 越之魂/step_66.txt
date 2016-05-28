@@ -1,0 +1,10 @@
+{"index":66,"type":2,"chap":7,"title":"青瓷锺","english_title":"The Celadon Bell","time":0,"content":"我将视线聚焦在答案之上，不一会儿展馆的灯又闪烁了一下，随后周围又恢复了平静。看来我的选择有问题……几乎是瞬间，新的提示又出现了，是一道密码题。","password":"1352","password_type":[[[48,57]],[[48,57]],[[48,57]],[[48,57]]],"pic":"img_6.jpg","tail_pic":"img_23.png"}
+
+
+
+
+
+
+
+
+

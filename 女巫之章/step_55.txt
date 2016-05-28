@@ -1,0 +1,5 @@
+{"index":55,"type":9,"chap":7,"title":"结局","english_title":"The End ","time":0,"content":"结束了一学期忙碌的学业，开始折腾Ruby打疫苗办手续等各种事情。不过此行不是去美国而是先陪我回国进购猫粮顺便拜妈祖。","end_content":"毕竟黑猫在中国文化寓意着吉祥呢。","back_pic":"jpg_5.jpg","end_main_pic":"jpg_5.jpg","pic":"jpg_2.jpg"}
+
+
+
+

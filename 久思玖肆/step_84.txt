@@ -1,0 +1,6 @@
+{"index":84,"type":1,"chap":8,"title":"终极","english_title":"The Destination","time":0,"content":"时间到了。\n\n宝箱突然发出搅拌机似的轰鸣声，自身也剧烈地震动起来。你吓得赶紧把它扔到了一边。\n\n看来里面的东西是没法要了……\n\n箱子突然发出了声音：“人生多艰，命途多舛，还请莎莎们重新来过。”\n\n","options":[{"index":143,"option":"“重新……？”⊙_⊙"}],"pic":"jpg_14.jpg"}
+
+
+
+
+

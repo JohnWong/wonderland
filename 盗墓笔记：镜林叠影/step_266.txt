@@ -1,0 +1,11 @@
+{"index":266,"type":1,"chap":2,"title":"锁魂罐","english_title":"The Soul Cage","time":0,"content":"","options":[{"index":276,"option":"苟且"},{"index":278,"option":"淘汰"}]}
+
+
+
+
+
+
+
+
+
+

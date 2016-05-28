@@ -1,0 +1,1 @@
+{"index":56,"type":1,"chap":9,"title":"写字用章节","english_title":"矛戈","time":0,"content":"谜题答案：wang。\n\n剧情：这个点的密码是一个古人（苏轼）留下的，（旁边有苏轼写的”表忠观碑“）。这个点的秘密被封印了。\n“王”\n\n","options":[{"index":15,"option":"进门"},{"index":17,"option":"不进门"}]}

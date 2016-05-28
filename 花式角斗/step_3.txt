@@ -1,0 +1,15 @@
+{"index":3,"type":1,"chap":2,"title":"没意思","english_title":"Boring","time":0,"content":"没意思，真没意思。你对老张说。\n老张是处女座，当然知道你的意思：“老王，家里的衣服我可都洗了，你还穿得这么邋遢，我也觉得没意思。”","options":[{"index":5,"option":"我又不是处女座。"},{"index":7,"option":"谁叫你是处女座？"}],"pic":"jpg_20.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

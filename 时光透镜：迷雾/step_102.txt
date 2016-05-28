@@ -1,0 +1,4 @@
+{"index":102,"type":1,"chap":10,"title":"黑字","english_title":"Black words","time":0,"content":"“这不重要。你身边是不是发生了奇怪的事……如果是，<b>「你也很危险了」</b>。”","options":[{"index":167,"option":"我身边奇怪的事多了，顾不上你。"},{"index":167,"option":"你这是什么意思？说清楚点。"}],"pic":"jpg_16.jpg"}
+
+
+

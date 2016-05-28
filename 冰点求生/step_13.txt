@@ -1,0 +1,14 @@
+{"index":13,"type":1,"chap":6,"title":"水源","english_title":"Water supply","time":0,"content":"“兹……兹……喂，生还者请回答。”\n\n手机突然有了信号，听得出那是Coach的声音。\n\n“被感染者竟然还保留了人类意识和思考能力……他们比我们想象的聪明多了……”","options":[{"index":93,"option":"刚才发生了什么事？"},{"index":95,"option":"接下来我们该怎么做？"}],"pic":"jpg_1.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+

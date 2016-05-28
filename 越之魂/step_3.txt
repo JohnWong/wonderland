@@ -1,0 +1,3 @@
+{"index":3,"type":0,"chap":2,"title":"陌生来电","english_title":"The Call","time":0,"content":"密箱打开后，线索出现了。上面写着一些不明所以的短句，我确定这些信息就是下一个文物的线索，并且肯定在文澜阁内！是时候去寻找了。\n\n『点击屏幕空白处，左滑打开摄像头继续寻宝』","pic":"img_12.jpg","tail_pic":"img_16.jpg"}
+
+

@@ -1,0 +1,9 @@
+{"index":26,"type":3,"chap":8,"title":"哄老张","english_title":"Coax Zhang","time":0,"content":"老张现在心里真是挺暖的，原来走这么一遭，是老王打算哄他原谅老王。\n手机里蹦出一个语音消息这次老王的留的消息，你没删掉，可惜手机坏了，赶紧摇一摇维修维修。","options":[{"index":28,"option":1},{"index":30,"option":1},{"index":32,"option":1}],"even":1,"pic":"jpg_3.jpg"}
+
+
+
+
+
+
+
+

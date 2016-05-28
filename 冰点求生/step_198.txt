@@ -1,0 +1,15 @@
+{"index":198,"type":1,"chap":30,"title":"离开/斗争","english_title":"Leave or Struggle","time":0,"content":"这大概是知道军方诡计的生还者写下的口号……他们现在可能逃离了城市，也可能已经死在了感染者或是军方的手上。\n\n面对眼前刺目的单词，我心中只有一种想法。","options":[{"index":214,"option":"一定逃出这片废墟"},{"index":216,"option":"团结生还者去斗争"}],"pic":"jpg_22.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

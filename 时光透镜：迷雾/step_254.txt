@@ -1,0 +1,1 @@
+{"index":254,"type":3,"chap":23,"title":"保俶塔","english_title":"保俶塔","time":0,"content":"我硬着头皮参与了战斗，但我的战斗力实在有限。","options":[{"index":289,"option":1},{"index":291,"option":1}],"even":1}

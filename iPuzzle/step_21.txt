@@ -1,0 +1,9 @@
+{"index":21,"type":9,"chap":6,"title":"Wonderland","english_title":" ","time":0,"content":"“好了，你已经找到了这个最终的地方，而我想要给你的，都在这里了。纵使身处现实世界，我们的身边依旧充满无数未知的惊喜，等待着你去探索和发现。毕竟，世界并非如你所见。”","end_content":"iPad中的画面动了起来，仿佛一副童话般的景象，一个新的世界正在等待着你。\n\n<b>Wonderland,Wonder everywhere!</b>","back_pic":"jpg_3.jpg","end_main_pic":"jpg_3.jpg","pic":"jpg_1.jpg"}
+
+
+
+
+
+
+
+

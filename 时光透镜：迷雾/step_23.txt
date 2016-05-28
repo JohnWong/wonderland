@@ -1,0 +1,15 @@
+{"index":23,"type":1,"chap":10,"title":"黑字","english_title":"Black words","time":0,"content":"眼前的道路都变成了土路，好像是民国时期的样子，有人在<b>「六字」</b>周围加上了其他的黑字……\n\n这时手机里发来一条信息。\n\n“能收到么？回话！”","options":[{"index":102,"option":"你是谁？"},{"index":102,"option":"你在哪儿？"}],"pic":"jpg_16.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

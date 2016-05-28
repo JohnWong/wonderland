@@ -1,0 +1,9 @@
+{"index":134,"type":0,"chap":14,"title":"培养器","english_title":"Incubator","time":0,"content":"抗体到手，培养皿上贴着一行英文：\n\n<b>Back propagation artificial neural network for MDPV screening</b>\n\n之前答应军方再收集一些医学信息资料，这幢大楼的资料都存放在<b>最顶层</b>，找到<b>合适的实验室</b>查看吧。"}
+
+
+
+
+
+
+
+

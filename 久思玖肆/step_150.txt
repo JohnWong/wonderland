@@ -1,0 +1,2 @@
+{"index":150,"type":1,"chap":11,"title":"柳暗花明","english_title":"Easy Mode","time":0,"content":"你拉开了选项对应的那扇门，里面黑洞洞的。慢慢接受了这种没预算的设定之后，你估计前面也出不了什么幺蛾子了。于是在和TARS道别之后，你果断地踏了进去。","options":[{"index":113,"option":"踏入"}],"pic":"jpg_12.jpg"}
+

@@ -1,0 +1,6 @@
+{"index":21,"type":1,"chap":3,"title":"人工智能","english_title":"This Is TARS","time":0,"content":"“嗯，这样应该就能过了，虽然我也不知道你答的对不对……”","options":[{"index":27,"option":"Excuse me？？麻烦敬业一点好吗？？"}],"pic":"jpg_24.jpg","tail_pic":"png_9.png"}
+
+
+
+
+

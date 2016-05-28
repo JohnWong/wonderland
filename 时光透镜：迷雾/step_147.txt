@@ -1,0 +1,9 @@
+{"index":147,"type":0,"chap":21,"title":"迷宫","english_title":"Maze","time":0,"content":"泉池前，我又仔细阅读了纸条上那行错乱的文字：\n\n“所之密秘到找中路山上在可者阵此解破，始为元天，池泉向面。”\n\n以及后面跟着一串奇怪的数字。","pic":"jpg_29.jpg","tail_pic":"png_33.png"}
+
+
+
+
+
+
+
+

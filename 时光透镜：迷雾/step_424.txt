@@ -1,0 +1,2 @@
+{"index":424,"type":1,"chap":2,"title":"镜像","english_title":"Mirror","time":0,"content":"地面上果然有一个倒写的“6”。这时手机里发来一条信息。\n\n“能收到么？回话！”","options":[{"index":430,"option":"你是谁？"},{"index":430,"option":"你在哪儿？"}],"pic":"jpg_33.jpg"}
+

@@ -1,0 +1,2 @@
+{"index":"50","type":6,"title":"下定决心","english_title":"Determined","pic":"jpg_15.jpg"}
+

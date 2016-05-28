@@ -1,0 +1,2 @@
+{"index":"24","type":6,"title":"西药","english_title":"Western medicine","pic":"jpg_24.jpg"}
+

@@ -1,0 +1,7 @@
+{"index":59,"type":1,"chap":16,"title":"见公主","english_title":"Meet Princess","time":0,"content":"“今天是<b>「礼拜日，我要去思澄堂礼拜。那座屋顶有十字架的房子便是了」</b>。皇兄、宰相，你们有什么话，<b>「去教堂外等我」</b>，我做完礼拜回来再说吧。”公主知道两人不安好心，能躲就躲。","options":[{"index":296,"option":" 一门式"},{"index":298,"option":"多门式"}],"pic":"jpg_55.jpg"}
+
+
+
+
+
+

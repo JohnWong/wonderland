@@ -1,0 +1,14 @@
+{"index":165,"type":1,"chap":19,"title":"玻璃幻影","english_title":"Glass illusion","time":0,"content":"接上WIFI，我扫描了手上的资料，保存好电子件后，复印了一份。然后联系了Coach。\n\n“你们竟然已经到达龙翔桥了？”Coach的口气充满惊讶。\n\n“是的，而且我们已经拿到暂时性抗体。”\n\n“那……那你们有找到什么资料么？”","options":[{"index":167,"option":"当然，顺手而已。"},{"index":169,"option":"没怎么找，时间太紧。"}]}
+
+
+
+
+
+
+
+
+
+
+
+
+

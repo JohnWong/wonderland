@@ -1,0 +1,4 @@
+{"index":24,"type":1,"chap":8,"title":"断头","english_title":"Decapitation","time":0,"content":"帝生九子，九子皆不同。朕是九子之九，擅长灭火消灾。可惜朕是个笑话，更擅长制造灾难。朕内心有一个更阴暗的想法没有告诉宰相，你真的打算听我的故事吗？","options":[{"index":28,"option":"愿意"},{"index":30,"option":"不愿意"}],"pic":"jpg_27.jpg"}
+
+
+

@@ -1,0 +1,7 @@
+{"index":"6","type":6,"title":"喫茶","english_title":"Drinking tea","pic":"jpg_15.jpg"}
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+{"index":271,"type":2,"chap":11,"title":"计谋","english_title":"Counsel","time":0,"content":"“皇上，你可知<b>「社工应每月完成走访居民__户以上？」</b>”\n“问这个干嘛？”\n“为了平息您的怒气嘛。”","password":"30","password_type":[[[48,57]],[[48,57]]],"pic":"jpg_49.jpg"}
+

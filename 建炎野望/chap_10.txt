@@ -1,0 +1,1 @@
+{"index":"10","type":6,"title":"怒","english_title":"Anger","pic":"jpg_56.jpg"}

@@ -1,0 +1,7 @@
+{"index":37,"type":1,"chap":12,"title":"文化园","english_title":"Cultural Park","time":0,"content":"『闻堰街道是个古老的集镇，境内名胜古迹颇多，有距今近千年的莲华古寺、延庆寺，也有古湘湖遗址，钱王水利纪念堂。』\n\n<b>「您已步行40km，赶快补充能量~如果能量见底，可以选择载兴而归。」</b>\n","options":[{"index":39,"option":"坚持就是胜利~"},{"index":41,"option":"打道回府！"}],"pic":"img_1.jpg"}
+
+
+
+
+
+

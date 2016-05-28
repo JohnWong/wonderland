@@ -1,0 +1,1 @@
+{"index":107,"type":1,"chap":3,"title":"鎏金银腰带","english_title":"The Gilt Belt","time":0,"content":"这条鎏金腰带虽然于雷峰塔出土，但其中的花纹却盛行于战国时期的鲁国。观察一番之后，我竟发现它与吴邪一行在鲁王宫中遇到的青眼狐尸身上那条腰带有几分相似！\n下一步我该怎么办……","options":[{"index":150,"option":"透过橱窗仔细观察"},{"index":152,"option":"打破橱窗拿了就跑"}],"pic":"jpg_19.jpg"}

@@ -1,0 +1,2 @@
+{"index":"10","type":6,"title":"全知の学霸","english_title":"GPA 4.0","pic":"jpg_18.jpg"}
+

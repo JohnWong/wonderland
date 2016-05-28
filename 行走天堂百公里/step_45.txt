@@ -1,0 +1,11 @@
+{"index":45,"type":9,"chap":14,"title":"夜月","english_title":"Moon and Night","time":0,"content":"『跨湖桥文化遗址要早于河姆渡遗址1000年，出土了世界上最早的独木舟，把浙江文明史前推到八千年。当时考古发现的植物种实被证实为茶籽。』","end_content":"你已到达终点，恭喜你成功挑战50千米！","back_pic":"img_37.jpg","end_main_pic":"img_37.jpg","pic":"img_19.jpg"}
+
+
+
+
+
+
+
+
+
+

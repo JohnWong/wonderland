@@ -1,0 +1,5 @@
+{"index":33,"type":9,"chap":10,"title":"宋城","english_title":"Song Cheng","time":0,"content":"你离终点只有一步之遥，虽败犹荣！","end_content":"恭喜你成功挑战30千米！","back_pic":"img_37.jpg","end_main_pic":"img_37.jpg","pic":"img_16.jpg"}
+
+
+
+

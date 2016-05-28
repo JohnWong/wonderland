@@ -1,0 +1,7 @@
+{"index":7,"type":2,"chap":2,"title":"镜像","english_title":"Mirror","time":0,"content":"地面上果然有一个倒写的“6”，神秘声音告诉我的数字<b>「17.9.1.14」</b>，到底意味着什么呢？","password":"QIAN","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_33.jpg"}
+
+
+
+
+
+

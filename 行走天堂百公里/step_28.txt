@@ -1,0 +1,9 @@
+{"index":28,"type":1,"chap":10,"title":"宋城","english_title":"Song Cheng","time":0,"content":"『北宋灭亡后，宋室南迁定都临安，史称南宋；是中国历史上经济发达、文化繁荣、科技进步的朝代。共九位帝王，享国一百五十二年。』\n\n<b>「你已经步行了30km，可以适当休息~」</b>\n","options":[{"index":31,"option":"坚持到底！"},{"index":33,"option":"彻底休息，结束游戏。"}],"pic":"img_16.jpg"}
+
+
+
+
+
+
+
+

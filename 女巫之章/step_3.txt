@@ -1,0 +1,4 @@
+{"index":3,"type":0,"chap":1,"title":"付账","english_title":"The Bill","time":0,"content":"想起Ruby平时最愿意喝咖啡，我觉得老板没有骗我，于是我痛快的付了账，并继续向他打听有关猫咪的信息。\n咖啡厅的老板说，带走Ruby的人开着一辆黑色<b>保时捷</b>，并往墓园的方向去了。","pic":"jpg_8.jpg"}
+
+
+

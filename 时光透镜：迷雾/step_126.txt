@@ -1,0 +1,3 @@
+{"index":126,"type":3,"chap":13,"title":"神兽","english_title":"Monsters","time":0,"content":"两人混战成一团，情急之中，我抄起一块青砖，向他们砸去。","options":[{"index":131,"option":1},{"index":133,"option":1}],"even":1,"pic":"jpg_12.jpg"}
+
+

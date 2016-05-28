@@ -1,0 +1,4 @@
+{"index":145,"type":1,"chap":6,"title":"山穷水尽","english_title":"Hard Mode","time":0,"content":"你走到一旁，看到每一扇门上都刻着一个字母，并贴着一个“小心地滑”的标记。","options":[{"index":146,"option":"小心地滑？"}],"pic":"jpg_16.jpg"}
+
+
+

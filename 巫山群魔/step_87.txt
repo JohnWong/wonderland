@@ -1,0 +1,1 @@
+{"index":87,"type":1,"chap":21,"title":"重逢之日","english_title":"Day reunion","time":0,"content":"“钟月？”你轻声叫他。\n“你是何人？”这语调……你皱眉，四周弥漫烧香的味道，墙上斑驳，街道也变了样，这已不是人界。","options":[{"index":89,"option":"我是……"},{"index":91,"option":"你又是谁？"}],"pic":"jpg_45.jpg"}

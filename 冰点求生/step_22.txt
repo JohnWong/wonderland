@@ -1,0 +1,8 @@
+{"index":22,"type":2,"chap":23,"title":"分子式","english_title":"Molecular formula","time":2700,"content":"PCBDAN找到了，但资料上记载的抗体，是PCBDAN<b>没有添加Pyridine之前的物质。</b>","password":"PCBACI","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]]]}
+
+
+
+
+
+
+
