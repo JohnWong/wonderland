@@ -1,0 +1,10 @@
+{"index":16,"type":2,"chap":6,"title":"反常的线索","english_title":"Abnormal Clue","time":0,"content":"“……我知道你已经到那里了……为了安全起见，我需要再次确认你的身份。我已在消防栓上加了密，这种<b>摩斯电码</b>对你来说应该很简单。”\n\n<b>－－．\n．－\n－－\n．</b>","password":"GAME","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_5.jpg"}
+
+
+
+
+
+
+
+
+

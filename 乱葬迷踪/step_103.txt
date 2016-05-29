@@ -1,0 +1,15 @@
+{"index":103,"type":1,"chap":2,"title":"菜杀五埋","english_title":"Killed,buried.","time":0,"content":"他也是蠢。清政府自己都没找到的东西，他还毛遂自荐，说自己能找到。\n最后失败咯，于是就这么死了。","options":[{"index":105,"option":"帛书就到这结束了？"},{"index":107,"option":"我觉得，这说不通。"}],"pic":"jpg_8.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

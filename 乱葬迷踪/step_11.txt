@@ -1,0 +1,8 @@
+{"index":11,"type":1,"chap":1,"title":"问询","english_title":"Inquirer","time":0,"content":"太好了，你离那个地方不远。\n看来我找对人了。希望你能边走边听我说完我的故事。","options":[{"index":31,"option":"你在什么地方啊？"},{"index":33,"option":"你到底发生了什么啊？"}],"pic":"jpg_22.jpg"}
+
+
+
+
+
+
+

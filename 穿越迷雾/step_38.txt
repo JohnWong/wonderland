@@ -1,0 +1,4 @@
+{"index":38,"type":1,"chap":24,"title":"克制","english_title":"Restraint","time":0,"content":"餐厅一旁便是通往地下的电梯。情报员留下这句话的用意是？……\n\nCoach的话中有很多疑点，我该仔细斟酌。","options":[{"index":185,"option":"试试相信他。"},{"index":187,"option":"心中抱有疑虑。"}],"pic":"jpg_16.jpg"}
+
+
+

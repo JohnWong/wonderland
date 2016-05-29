@@ -1,0 +1,1 @@
+{"index":109,"type":2,"chap":3,"title":"疑惑","english_title":"Doubt","time":900,"content":"你比我想象中更厉害嘛。如果你能帮我解答一下这个问题的话，也许我就能想到这件事的答案了。\n\n『如果你能在此刻打开格瓦拉app，保准你能快速想到答案。』","password":"KEY","password_type":[[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_6.jpg","tail_pic":"png_3.png"}

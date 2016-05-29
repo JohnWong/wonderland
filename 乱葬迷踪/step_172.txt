@@ -1,0 +1,11 @@
+{"index":172,"type":1,"chap":9,"title":"异常","english_title":"Abnormal","time":0,"content":"那眼睛太渗人，朋友要我赶紧走开。但是我觉得，既然都到这一步了，不碰一下真的大丈夫？","options":[{"index":174,"option":"别碰啊！"},{"index":176,"option":"换我，我也会调查。"}],"pic":"jpg_1.jpg"}
+
+
+
+
+
+
+
+
+
+

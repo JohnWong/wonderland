@@ -1,0 +1,13 @@
+{"index":111,"type":1,"chap":3,"title":"疑惑","english_title":"Doubt","time":0,"content":"真厉害。多希望和我一起来这里的人是你，这样我就不会被困在这里了……\n现在说这些也没用，你还想继续听我的故事吗？","options":[{"index":118,"option":"你为什么会被困？"},{"index":120,"option":"和你一起的人，他们怎么了？"}],"pic":"jpg_6.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2 @@
+{"index":14,"pic":"","type":6,"title":"培养器","english_title":"Incubator"}
+

@@ -1,0 +1,8 @@
+{"index":124,"type":1,"chap":4,"title":"异像","english_title":"Heteromorphism","time":0,"content":"开始的时候，只是温度和气氛异常，直到我把朋友喊来，眼睁睁看着他们摔倒。我能从动作看出来，他们是被什么东西推倒的。\n有什么东西不愿意让我们来这里，可我偏要去。没办法，我就是作死。","options":[{"index":126,"option":"你干了什么？"},{"index":128,"option":"谁推倒了他们？"}],"pic":"jpg_12.jpg"}
+
+
+
+
+
+
+

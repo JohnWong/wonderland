@@ -1,0 +1,1 @@
+{"index":81,"type":1,"chap":1,"title":"没有选择","english_title":"No choice","time":0,"content":"“你们最好关注军方的信息联络公众号wonderland，之后或许会用到它。”\n\n“目前感染源的传播方式不明，你们很可能在逃生路上被感染，只有拿到暂时性抗体才行。而且……希望你们完成一个任务，这关乎人类的未来。”","options":[{"index":89,"option":"先说抗体的事"},{"index":91,"option":"任务是什么？"}],"pic":"jpg_2.jpg"}

@@ -1,0 +1,7 @@
+{"index":101,"type":1,"chap":2,"title":"菜杀五埋","english_title":"Killed,buried.","time":0,"content":"地下有东西，清政府想要这东西。于是大费周章的找了埋人这借口。具体的我不清楚，帛书上没写。","options":[{"index":105,"option":"帛书就到这结束了？"},{"index":107,"option":"我觉得，这说不通。"}],"pic":"jpg_8.jpg"}
+
+
+
+
+
+

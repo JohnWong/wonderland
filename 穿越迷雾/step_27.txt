@@ -1,0 +1,13 @@
+{"index":27,"type":2,"chap":18,"title":"释放！","english_title":"Release!","time":0,"content":"报警器上赫然写着<b>KB/8000</b>……但是蓝色屏幕上的数据用的单位是<b>MB</b>。","password":"78125","password_type":[[[48,57]],[[48,57]],[[48,57]],[[48,57]],[[48,57]]],"pic":"jpg_10.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+

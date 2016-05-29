@@ -1,0 +1,1 @@
+{"index":144,"type":1,"chap":6,"title":"异动","english_title":"Move","time":0,"content":"为了不让他们追上，我和朋友分头走了。可那家伙追着我不放，眼看就要追上我了……他嘴里呼出来的味道我现在还记得，是恶心的酸味，和呕吐物一样……","options":[{"index":146,"option":"你怎么逃走的？"},{"index":148,"option":"也许这是你的幻觉？"}],"pic":"jpg_27.jpg"}

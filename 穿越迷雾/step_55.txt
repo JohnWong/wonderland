@@ -1,0 +1,9 @@
+{"index":55,"type":2,"chap":19,"title":"玻璃幻影","english_title":"Glass illusion","time":0,"content":"军方驻点已经成为了一片废墟，残留的apple通讯设备仍在运作，<b>这些设备都将apple缩写成了ap。</b>\n\n我首先需要知道的，是<b>这些设备联网所使用的WIFI名字。</b>\n\n有了网络，就可以联系上Coach了。","password":"APDEMO","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_1.jpg"}
+
+
+
+
+
+
+
+

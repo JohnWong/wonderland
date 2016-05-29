@@ -1,0 +1,4 @@
+{"index":21,"type":1,"chap":2,"title":"菜杀五埋","english_title":"Killed,buried.","time":0,"content":"你知道菜杀五埋的传说吧？帛书是那时候埋在这里的人留下的。\n他说，他知道清政府在五道口埋人的真相。","options":[{"index":101,"option":"什么真相？"},{"index":103,"option":"他怎么死的？"}]}
+
+
+

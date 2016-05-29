@@ -1,0 +1,4 @@
+{"index":187,"type":2,"chap":10,"title":"不存在的","english_title":"Nonexistent","time":900,"content":"不可能是五层的……绝对不可能！\n我和朋友一起跑到这里，我清楚的记得那标志上的流着血，正好挡住了L，还跟着一串东西<b>「25,L-HAL」</b>。\n\n『这时候不打开黑白校园app，提示就和你擦肩而过咯。』","password":"810","password_type":[[[48,57]],[[48,57]],[[48,57]]],"pic":"jpg_2.jpg"}
+
+
+

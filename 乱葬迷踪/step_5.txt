@@ -1,0 +1,8 @@
+{"index":5,"type":1,"chap":1,"title":"问询","english_title":"Inquirer","time":0,"content":"哦？你能不能具体点？你们那片的电话规律我略知一二，你哪个学校的学生？","options":[{"index":52,"option":"北大医学部"},{"index":54,"option":"北航"},{"index":56,"option":"北影"},{"index":58,"option":"政法"},{"index":60,"option":"邮电"}],"pic":"jpg_22.jpg"}
+
+
+
+
+
+
+

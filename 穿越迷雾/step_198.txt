@@ -1,0 +1,1 @@
+{"index":198,"type":1,"chap":30,"title":"斗争","english_title":"Struggle","time":0,"content":"“stay aggressive！”\n\n这大概是知道军方诡计的生还者写下的口号……他们现在可能逃离了城市，也可能已经死在了感染者或是军方的手上。\n\n面对眼前刺目的单词，我心中只有一种想法。","options":[{"index":216,"option":"誓死逃出这片废墟"},{"index":214,"option":"团结生还者反抗军方"}],"pic":"jpg_13.jpg"}

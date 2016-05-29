@@ -1,0 +1,1 @@
+{"index":2,"type":1,"chap":1,"title":"问询","english_title":"Inquirer","time":0,"content":"我试了十几次，才找到一个能拨通的电话，你能告诉我，你在四环哪个位置吗？","options":[{"index":3,"option":"我在北面"},{"index":5,"option":"我在南面"}],"pic":"jpg_22.jpg"}

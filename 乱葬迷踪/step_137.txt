@@ -1,0 +1,2 @@
+{"index":137,"type":1,"chap":5,"title":"异响","english_title":"Abnormal sound","time":0,"content":"我当场就傻逼了，谁能想到我就这样丢掉了大部分朋友？总感觉我叫他们过来就是个天大的错误。现在我只能走下去，找到他们为什么会消失。","options":[{"index":140,"option":"你找到了吗？"},{"index":142,"option":"你打算怎么找？"}],"pic":"jpg_16.jpg"}
+
