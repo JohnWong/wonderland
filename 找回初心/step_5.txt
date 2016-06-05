@@ -1,0 +1,1 @@
+{"index":5,"type":0,"chap":1,"title":"游戏开始","english_title":"Let's Roll","time":0,"content":"“何必这么急着开始？我觉得我想要先来几杯鸡尾酒，我知道这儿有个地方不错。你知道<b>Whisky Bridge</b>吗？你一定会喜欢的。”\n\n他究竟想干什么？","pic":"jpg_12.jpg"}

@@ -1,0 +1,13 @@
+{"index":61,"type":2,"chap":15,"title":"良仓","english_title":"Logo","time":0,"content":"我仔细打量着这两个看起来由横竖斜笔画组成的字，<b>Logo上面的三角形</b>好像指示着什么。看着盒子上的图案，突然，我知道密码是什么了！","password":"DIE","password_type":[[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_3.jpg","tail_pic":"png_3.png"}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+{"index":20,"type":2,"chap":6,"title":"思考者","english_title":"Thinker","time":0,"content":"这位男子，似乎正在思索着什么，于是你和公主便上前询问。\n\n下面有一个数列，有一定规律，请问这个数列的第6个数是多少呢？\n1    3    6    10    15    ？？\n","password":"21","password_type":[[[48,57]],[[48,57]]],"pic":"img_5.jpg"}
+
+
+

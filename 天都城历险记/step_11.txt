@@ -1,0 +1,2 @@
+{"index":11,"type":1,"chap":4,"title":"学校","english_title":"School","time":0,"content":"那里是学习知识的地方，更多的知识能够让你们更从容的应对女巫。\n\n眼前的学校有点像蜂巢，有着红绿两色，那请问蜜蜂能分出红色和绿色吗？","options":[{"index":13,"option":"A. 能"},{"index":15,"option":"B. 不能"}],"pic":"img_4.jpg"}
+

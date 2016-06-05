@@ -1,0 +1,8 @@
+{"index":81,"type":1,"chap":10,"title":"壁画","english_title":"Paintings","time":0,"content":"“这副画是幼儿园的小朋友的作品，”女巫见到你们露出了开心的笑容，“而我这最后一关也是和美术有些关系” \n\n下列关于颜料调配的说法，哪一个是正确的？","options":[{"index":83,"option":"A. 黄色+蓝色=绿色"},{"index":85,"option":"B. 蓝色+绿色=黄色"},{"index":85,"option":"C. 绿色+黄色=蓝色"}],"pic":"img_15.jpg"}
+
+
+
+
+
+
+

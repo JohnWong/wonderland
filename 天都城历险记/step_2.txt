@@ -1,0 +1,14 @@
+{"index":2,"type":1,"chap":1,"title":"启程","english_title":"Start","time":0,"content":"你决定踏上旅程，解救那些被女巫施咒过的动物们。\n现在请先选择自己的身份：","options":[{"index":3,"option":"男孩"},{"index":5,"option":"女孩"}],"pic":"img_10.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+

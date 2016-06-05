@@ -1,0 +1,6 @@
+{"index":26,"type":1,"chap":8,"title":"来自女巫的挑战","english_title":"Challenges from Witch","time":0,"content":"你们找到了女巫，她看到你和公主诚恳的样子，便说道：“只要你们肯接受我的挑战，我就答应使所有人类和动物恢复原状。”你们立马毫不犹豫的同意了女巫的要求。\n\n你们都很想完成我的挑战，那么可以用哪个成语来形容你们的决心呢？","options":[{"index":29,"option":"A. 迎难而上"},{"index":31,"option":"B. 知难而退"}],"pic":"img_11.jpg"}
+
+
+
+
+

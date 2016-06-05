@@ -1,0 +1,8 @@
+{"index":2,"type":1,"chap":1,"title":"苏醒","english_title":"awake","time":0,"content":"走出病房，室外春暖花开，阳光照得我睁不开眼，这里是我长大的地方，眼前的一切显得陌生又熟悉。人们脸上的平静祥和仿佛冬眠前的那一切只是一场梦。这个时代居然还有二维码！","options":[{"index":3,"option":"扫描二维码"},{"index":5,"option":"暂不扫描"}],"pic":"jpg_9.jpg"}
+
+
+
+
+
+
+

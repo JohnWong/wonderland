@@ -1,0 +1,4 @@
+{"index":49,"type":0,"chap":2,"title":"咖啡谜局","english_title":"The Coffee Puzzle","time":0,"content":"与其说这是一场探索，你忽然觉得这更像是场事先安排好的谈话。纵使对方这般从容，你却只能按照他安排好的剧本一步步走下去，毕竟，你还没有找到任何有价值的线索……\n\n<b>下一站：Whisky Bridge</b>","pic":"jpg_8.jpg"}
+
+
+

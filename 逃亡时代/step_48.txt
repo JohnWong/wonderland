@@ -1,0 +1,5 @@
+{"index":48,"type":1,"chap":12,"title":"无水之船","english_title":"Boat without water","time":0,"content":"我在小船周围仔细寻找，发现了一个暗格。里面是一副眼镜，带上眼镜，眼前出现了一排文字，“真实的世界没有你看到的那么多姿多彩，美丽的背后隐藏的是什么，你，想知道吗？”","options":[{"index":50,"option":"你是谁？"},{"index":52,"option":"你说的是什么意思？"}],"pic":"jpg_4.jpg"}
+
+
+
+
