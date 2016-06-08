@@ -1,0 +1,14 @@
+{"index":50,"type":1,"chap":12,"title":"祥云","english_title":"Cloud","time":0,"content":"我们赶过去的时候刚好看到师傅被断空居的人带走了。\n“师兄，我们是先给门派送信请求支援还是我们赶快去追师傅？”\n","options":[{"index":52,"option":"给门派送信"},{"index":54,"option":"立刻去追师傅（高难度）"}],"pic":"jpg_16.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+

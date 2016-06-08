@@ -1,0 +1,1 @@
+{"index":9,"type":1,"chap":1,"title":"陌生的世界","english_title":"Strange world","time":0,"content":"眼前一片漆黑，睁开眼，感觉来到了一个陌生的世界。\n“这是哪里？我的头好痛。”\n“师兄，你不记得了吗？哦，对，你来到凡间投胎修炼是会丧失前世的记忆的，我是你的师弟怀炎，我有急事找你师兄。”\n","options":[{"index":11,"option":"那我是谁？"},{"index":13,"option":"什么事？"}],"pic":"jpg_7.jpg"}

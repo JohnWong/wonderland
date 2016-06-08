@@ -1,0 +1,15 @@
+{"index":11,"type":1,"chap":1,"title":"陌生的世界","english_title":"Strange world","time":0,"content":"“你是我师兄怀林啊，飞羽门首席大弟子怀林。”\n飞羽门？好像有点熟悉…\n","options":[{"index":13,"option":"发生什么事了？"}],"pic":"jpg_7.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

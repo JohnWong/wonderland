@@ -1,0 +1,2 @@
+{"index":"27","type":6,"title":"四边形","english_title":"Quadrilateral","pic":"jpg_25.jpg"}
+

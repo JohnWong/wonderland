@@ -1,0 +1,1 @@
+{"index":64,"type":1,"chap":16,"title":"秘籍","english_title":"Secrets","time":0,"content":"拿到了三册秘籍，可是耳边响起了师傅的话“怀林，不要去，这秘籍给了他们天下就要大乱了。”我该怎么办？","options":[{"index":66,"option":"不管了，救师傅要紧"},{"index":68,"option":"我不能置天下苍生于不顾"}],"pic":"jpg_24.jpg"}

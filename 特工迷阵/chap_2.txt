@@ -1,0 +1,8 @@
+{"index":"2","type":6,"title":"电话亭","english_title":"Call box","pic":"jpg_12.jpg"}
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+{"index":99,"type":0,"chap":4,"title":"滑梯","english_title":"Slides","time":0,"content":"<b>「你们没能将滑梯打开。请去一楼起始点电话亭附近寻找领队。」</b>","pic":"img_13.jpg"}

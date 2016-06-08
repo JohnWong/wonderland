@@ -1,0 +1,1 @@
+{"index":9,"type":2,"chap":2,"title":"不忍","english_title":"Can not bear","time":0,"content":"“等等，”你刚说话，陈吉就拉住了你。“油桶里有张纸。”\n<b>「丧尸围城的世界，总要拿点东西再走吧？如果你愿意，便去附近找找看有没有信封。如果不愿意，输入车头数字，继续前进。」</b>","password":"58","password_type":[[[48,57]],[[48,57]]],"pic":"img_7.jpg"}

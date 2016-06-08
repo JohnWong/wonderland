@@ -1,0 +1,3 @@
+{"index":5,"type":0,"chap":1,"title":"陌生的世界","english_title":"Strange world","time":0,"content":"这个地方好熟悉，我好像在哪里看见过。","pic":"jpg_7.jpg","tail_pic":"jpg_12.jpg"}
+
+

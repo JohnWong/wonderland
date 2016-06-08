@@ -1,0 +1,11 @@
+{"index":26,"type":2,"chap":7,"title":"感染","english_title":"Infection","time":0,"content":"“陈吉，你能看出其中的端倪吗？”\n陈吉的最初松了口气，接着又紧张起来。难道他真的被感染了？","password":"2900","password_type":[[[48,57]],[[48,57]],[[48,57]],[[48,57]]],"pic":"img_5.jpg"}
+
+
+
+
+
+
+
+
+
+

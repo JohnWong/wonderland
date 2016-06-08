@@ -1,0 +1,12 @@
+{"index":21,"type":2,"chap":7,"title":"橙色密码","english_title":"Orange password","time":0,"content":"一个男人打开了门。\n\n“你就是Pierce吧？”\n\n我还未开口，他接着说：“但我怎么知道你到底是不是呢？不如你试着解开我手上的这个密箱？里面放着Joseph是内鬼的证据。”我接过他手中的密箱，看到上面刻着的密符，一眼便知其解。","password":"SOUND","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"pic":"jpg_7.jpg","tail_pic":"png_3.png"}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+{"index":114,"type":2,"chap":24,"title":"守护者","english_title":"Guardian","time":0,"content":"原来它就是木头守护者，上面密密麻麻写的文字，倒确实有些守护此地的意思。\nDave扫描之后，在牌子下方出现一个<b>「数字密码」</b>输入框。屏幕上给出的提示是：\n<b>「笔画2，笔画3文字」</b>之和。","password":"13","password_type":[[[48,57]],[[48,57]]],"pic":"jpg_24.jpg"}
+
+
+
+
+
+

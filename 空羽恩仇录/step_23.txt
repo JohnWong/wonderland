@@ -1,0 +1,5 @@
+{"index":23,"type":1,"chap":4,"title":"经文","english_title":"Scripture","time":0,"content":"经文上的字符出现了变化，最后，只剩下几个大字\n“天命之人，命由天定”\n","options":[{"index":25,"option":"说什么天命？！我不信！"},{"index":27,"option":"天命…果然天命不可违。"}],"pic":"jpg_10.jpg"}
+
+
+
+
