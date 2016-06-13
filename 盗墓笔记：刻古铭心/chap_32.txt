@@ -1,0 +1,8 @@
+{"latitude":0,"index":32,"pic":"jpg_8.jpg","title":"玉玺","type":6,"english_title":"Imperial jade seal","longitude":0}
+
+
+
+
+
+
+
