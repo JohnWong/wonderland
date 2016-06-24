@@ -1,0 +1,1 @@
+{"password":"RENMIN","password_type":[[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]],[[65,90]]],"index":318,"chap":317,"pic":"jpg_13.jpg","time":0,"tail_pic":"jpg_14.jpg","title":"熹平石经","type":2,"english_title":"Xi Ping Shi Jing","content":"\u201c诶，这个拓本好酷啊。\u201d我忍不住感叹。\n\n\u201c不对，王盟，你看这个拓本是不是缺了几个字？\u201d吴邪看着看着突然神色凝重的说。\n\n我仔细一看发现果然缺了两个字！缺了什么字呢？"}

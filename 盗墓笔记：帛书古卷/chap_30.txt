@@ -1,0 +1,7 @@
+{"hint":"绿色的指示牌！","latitude":31.24252474637765,"index":30,"pic":"jpg_30.jpg","title":"指示牌","type":6,"english_title":"Indication Board","longitude":121.4907395522015}
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+{"controls":[{"show":"hidden","index":39}],"index":272,"chap":33,"pic":"jpg_17.jpg","time":0,"title":"奠基石","type":0,"english_title":"Cornerstone","content":"\u201c你看这石头指的是一个人，<b>他是上海解放后第一任市长<\/b>，我们赶紧去找他吧，说不定有什么线索。\u201d吴邪接着说。\n\n我点点头，看来还有很多地方要向老板学习的。"}

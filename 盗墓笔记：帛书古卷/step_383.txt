@@ -1,0 +1,3 @@
+{"controls":[{"show":"hidden","index":136}],"index":383,"chap":382,"pic":"jpg_33.jpg","time":0,"tail_pic":"jpg_26.jpg","title":"龙","type":0,"english_title":"Loong","content":"\u201c老板，这龙的名字叫东方龙吗？\u201d我笑着问吴邪。\n\n吴邪没有理我，一直抬头看着这条龙，过了一会他说：\u201c王盟，<b>你看这条龙吐出来的东西。<\/b>\u201d\n\n我仔细一看，发现这条龙吐出来的不是单纯的火球。\n\n是什么东西呢？"}
+
+

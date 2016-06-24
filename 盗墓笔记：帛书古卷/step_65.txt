@@ -1,0 +1,2 @@
+{"controls":[{"show":"hidden","index":75}],"index":65,"chap":61,"pic":"jpg_16.jpg","time":0,"title":"国际保密局","type":0,"english_title":"Secrecy Bureau","content":"\u201c老板，你猜是谁给你寄的信呢？\u201d我小心翼翼的试探。\n\n\u201c我猜不出来，可我总感觉冥冥中有人在牵着我们走。\u201d吴邪实话实说，也没什么好隐瞒的，\u201c还是先去431号看看有什么线索吧！\u201d\n\n我点点头，跟了上去。"}
+

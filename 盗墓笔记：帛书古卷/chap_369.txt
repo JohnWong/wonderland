@@ -1,0 +1,2 @@
+{"latitude":31.20842473614995,"index":369,"pic":"jpg_18.jpg","title":"僧人","type":6,"english_title":"Shaman","longitude":121.4681768109468}
+

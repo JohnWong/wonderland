@@ -1,0 +1,8 @@
+{"back_pic":"jpg_3.jpg","index":192,"pic":"jpg_18.jpg","title":"帛书","type":9,"bottom_pic":"jpg_27.jpg","content":"吴邪一边看帛书一边说：\u201c大致写记载这个明代墓主人的生平事迹，还有古墓的入口处地图。\u201d\n\n\u201c这是谁的墓？\u201d\n\n\u201c这个我不清楚，我只能看个大概，具体的要回去查书才知道。\u201d吴邪收起帛书，向前走去。","front_pic":"jpg_29.jpg","chap":142,"time":0,"end_main_pic":"jpg_1.jpg","english_title":"Book copied on silk","end_content":"\u201c老板！我们现在去哪？\u201d\n\n\u201c我们去墓里追张起灵。\u201d吴邪语重心长继续说，\u201c真正的危险，才刚刚开始。\u201d"}
+
+
+
+
+
+
+

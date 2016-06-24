@@ -1,0 +1,9 @@
+{"options":[{"index":375,"option":"往右边走。"},{"index":376,"option":"往左边走。"}],"index":31,"chap":30,"pic":"jpg_30.jpg","time":0,"title":"指示牌","type":1,"english_title":"Indication Board","content":"\u201c我刚才看到的就是这个东西！\u201d吴邪蹲下去看着这个图，\u201c王盟你看这个图，看出什么来了吗？\u201d\n\n\u201c老板，我真的什么都看不出来，这...有什么线索吗。\u201d我还是一头雾水。\n\n\u201c不要急，你看箭头指的方向，你觉得我们该往哪里走呢\u201d吴邪转头问我。"}
+
+
+
+
+
+
+
+

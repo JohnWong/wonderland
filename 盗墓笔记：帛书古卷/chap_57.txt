@@ -1,0 +1,7 @@
+{"hint":"这只牛的尾巴指着的这条路...","latitude":31.23576451044514,"index":57,"pic":"jpg_32.jpg","title":"外滩牛","type":6,"english_title":"The Bund Cattle","longitude":121.490820575008}
+
+
+
+
+
+

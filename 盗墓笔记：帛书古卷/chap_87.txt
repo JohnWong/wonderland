@@ -1,0 +1,11 @@
+{"hint":"每一个作品都会有一个单独的编号。","latitude":31.22841540753267,"index":87,"pic":"jpg_12.jpg","title":"印章","type":6,"english_title":"Seal","longitude":121.4755291109052}
+
+
+
+
+
+
+
+
+
+

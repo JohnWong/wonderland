@@ -1,0 +1,9 @@
+{"controls":[{"show":"hidden","index":112}],"index":102,"chap":101,"pic":"jpg_9.jpg","time":0,"tail_pic":"jpg_19.jpg","title":"南极石","type":0,"english_title":"Antarcticite","content":"\u201c南极石？是指引我们去南边吗？南边是什么地方，王盟你把地图拿出来看看\u201d\n\n\u201c南边，是靠近田子坊的方向。等等，<b>地图这里怎么被划掉了<\/b>，老板你看看。\u201d我发现地图有点奇怪，把地图拿给吴邪看。\n\n吴邪皱了皱眉头：\u201c这个地方有蹊跷，我们赶紧过去！\u201d"}
+
+
+
+
+
+
+
+

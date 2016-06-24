@@ -1,0 +1,14 @@
+{"hint":"地图的某一块被划掉了。","latitude":31.232141,"index":101,"pic":"jpg_9.jpg","title":"南极石","type":6,"english_title":"Antarcticite","longitude":121.473135}
+
+
+
+
+
+
+
+
+
+
+
+
+

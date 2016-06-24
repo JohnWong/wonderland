@@ -1,0 +1,1 @@
+{"options":[{"index":222,"option":50},{"index":223,"option":50}],"index":113,"chap":112,"pic":"jpg_11.jpg","time":0,"title":"田子坊","type":3,"english_title":"Tian Zi Fang","content":"忽然有一大群人涌过来，把我跟吴邪淹没在了人群里。\n\n隐隐约约听到有个声音说：<b>去找一个大部分由年轻的学生组成的群团组织，她就坐在某个角落看着你。<\/b>\n\n猛然回头，发现大家都低着头走自己的路，仿佛没有看见我们。"}

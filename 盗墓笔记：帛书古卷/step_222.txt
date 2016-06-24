@@ -1,0 +1,1 @@
+{"controls":[{"show":"hidden","index":120}],"index":222,"chap":112,"pic":"jpg_11.jpg","time":0,"title":"田子坊","type":0,"english_title":"Tian Zi Fang","content":"我跟吴邪面面相觑，刚才说话的人到底是谁？\n\n\u201c既然有人指引我们去找那个人，应该就在附近，我们先去找吧。\u201d吴邪先打破了沉默。\n我点了点头：\u201c听你的。\u201d"}

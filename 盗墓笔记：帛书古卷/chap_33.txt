@@ -1,0 +1,12 @@
+{"hint":"上海人民英雄纪念塔奠基。","latitude":31.241777,"index":33,"pic":"jpg_17.jpg","title":"奠基石","type":6,"english_title":"Cornerstone","longitude":121.490819}
+
+
+
+
+
+
+
+
+
+
+

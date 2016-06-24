@@ -1,0 +1,9 @@
+{"hint":"旧上海跑马场的圆形印章。","latitude":31.22840799839442,"index":154,"pic":"jpg_4.jpg","title":"螺","type":6,"english_title":"Snail","longitude":121.4754266780036}
+
+
+
+
+
+
+
+

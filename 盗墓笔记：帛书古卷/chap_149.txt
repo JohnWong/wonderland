@@ -1,0 +1,7 @@
+{"hint":"地图上缺了一块。","latitude":31.232141,"index":149,"pic":"jpg_9.jpg","title":"南极石","type":6,"english_title":"Antarcticite","longitude":121.473135}
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+{"options":[{"index":290,"option":"\u201c是不是跟以前一样来人就说你出去度假了，大件的买卖等你回来。\u201d"},{"index":294,"option":"\u201c老板，以往这样的情况，你匆匆忙忙要走，肯定都得离开很久，你得交代一下。\u201d"},{"index":312,"option":"\u201c一般电视里的人，被人叫出去是必死的，老板你要当心哦。\u201d"}],"index":286,"chap":128,"pic":"jpg_34.jpg","time":0,"title":"天成井","type":1,"english_title":"Cenote","content":"吴邪拍了拍我的肩膀没说话。\n\n我拽住他说："}

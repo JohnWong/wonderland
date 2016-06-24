@@ -1,0 +1,13 @@
+{"controls":[{"show":"hidden","index":79}],"index":197,"chap":69,"pic":"jpg_24.jpg","time":0,"title":"西冷石头","type":0,"english_title":"Stone","content":"\u201c我没有去过，但我看到过图，<b>是一个天圆地方的博物馆。<\/b>\u201d吴邪用手比划给我看。\n\n\u201c老板你知道博物馆在哪吗？\u201d\n\n\u201c你把地图拿出来看看。\u201d吴邪对我说。"}
+
+
+
+
+
+
+
+
+
+
+
+

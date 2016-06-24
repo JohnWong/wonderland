@@ -1,0 +1,7 @@
+{"controls":[{"show":"hidden","index":39}],"index":375,"chap":30,"pic":"jpg_30.jpg","time":0,"title":"指示牌","type":0,"english_title":"Indication Board","content":"\u201c对，我们要往右边走，那你知道右边有什么吗？\u201d吴邪满意的点了点头问我。\n\n\u201c我知道，<b>上海解放后的第一任市长在那里<\/b>，我们要去找他对吗。\u201d我相信自己猜的没错。\n\n\u201c王盟你变聪明了哎！走吧，我们去找他。\u201d"}
+
+
+
+
+
+
